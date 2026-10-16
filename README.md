@@ -1,2 +1,2 @@
 # Koenkoreman
-Open source reposetory
+Open source repository
