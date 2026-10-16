@@ -36,7 +36,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Reporting
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please report it by contacting the project team at: [INSERT CONTACT EMAIL HERE]. All reports will be handled with discretion and confidentiality when possible.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please report it by contacting the project team at: stefmaes0101@gmail.com. All reports will be handled with discretion and confidentiality when possible.
 
 If the contact email above is not suitable, you can alternatively open an issue or contact a repository maintainer directly, but please be aware that issues are public and may not be appropriate for sensitive reports.
 
@@ -51,7 +51,3 @@ Maintainers who do not follow or enforce the Code of Conduct in good faith may b
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct/.
-
----
-
-Please replace [INSERT CONTACT EMAIL HERE] with the email address you'd like to receive Code of Conduct reports at, for example: `maintainers@example.com`.

@@ -1,0 +1,8 @@
+[build]
+  # Set "publish" to the directory that contains your built site (change if needed)
+  publish = "public"
+  # If you have a build step (e.g. for SSGs), set it here. Leave blank for plain HTML/CSS/JS
+  command = ""
+
+[context.production.environment]
+  NODE_ENV = "production"
